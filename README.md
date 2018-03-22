@@ -1,2 +1,2 @@
 # hello-world
-pour commencer
+C'est vraiment juste pour commencer. ;-)
