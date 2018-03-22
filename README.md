@@ -1,3 +1,3 @@
 # hello-world
-C'est vraiment juste pour commencer. ;-)
+C'est vraiment pour commencer. ;-)
 Changements fait dans la branche readme-edits
